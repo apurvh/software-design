@@ -11,7 +11,7 @@
 
 To master a subject you need to do _deliberate practice_.
 Anki's implementation of [spaced repetition](https://www.gwern.net/Spaced-repetition) and [active recall](https://en.wikipedia.org/wiki/Testing_effect) creates a great env for _deliberate practice_.
-The goal therefore is to create the best resource for mastering software design.
+The goal therefore is to create the best resource for mastering software design using Anki.
 
 ---
 
