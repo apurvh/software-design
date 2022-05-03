@@ -1,6 +1,8 @@
 **Achieve mastery in software design using Anki flashcards.**
 **Includes LLD, HLD, System Design, OO Design patterns, etc.**
 
+⚠️These notes are work in progress!!!⚠️
+
 # How to use:
 
 1. Install Anki from [Anki](https://apps.ankiweb.net/).
@@ -20,3 +22,10 @@ TO DO:
 1. A primer on using Anki
 2. Contents of the deck - use wordcloud for visualisation?
 3. Add references to sources
+
+---
+
+This deck is based on the following sources:
+
+1. https://github.com/donnemartin/system-design-primer
+2. ...
