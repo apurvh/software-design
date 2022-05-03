@@ -1,4 +1,5 @@
-Achieve mastery in software design using Anki flashcards. Includes LLD, HLD, System Design, OO Design patterns, etc.
+**Achieve mastery in software design using Anki flashcards.**
+**Includes LLD, HLD, System Design, OO Design patterns, etc.**
 
 # How to use:
 
