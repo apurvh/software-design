@@ -1,13 +1,14 @@
 **Achieve mastery in software design using Anki flashcards.**
-**Includes LLD, HLD, System Design, OO Design patterns, etc.**
+**Includes Data-structures and Algorithms, System Design, Object Oriented Programming, Design patterns, etc.**
+
+![image](./screenshot-anki-decks.png)
 
 ⚠️These notes are work in progress!!!⚠️
 
 # How to use:
 
 1. Install Anki from [Anki](https://apps.ankiweb.net/).
-2. Open Anki. Install Plugin CrowdAnki from [CrowdAnki](https://ankiweb.net/shared/info/1788670778).
-3. Import this deck: File>CrowdAnki:Import git repository.
+2. Import this deck: File>Import
 
 # Motivation
 
@@ -17,15 +18,7 @@ The goal therefore is to create the best resource for mastering software design 
 
 ---
 
-TO DO:
-
-1. A primer on using Anki
-2. Contents of the deck - use wordcloud for visualisation?
-3. Add references to sources
-
----
-
-This deck is based on the following sources:
+This deck inspired by the following sources:
 
 1. https://github.com/donnemartin/system-design-primer
-2. ...
+2. https://www.gwern.net/Spaced-repetition
