@@ -3,18 +3,18 @@
 
 ![image](./screenshot-anki-decks.png)
 
-⚠️These notes are work in progress!!!⚠️
+⚠️These notes are for inspiration only. To get better at software design, you have to practice with your own notes.⚠️
 
 # How to use:
 
 1. Install Anki from [Anki](https://apps.ankiweb.net/).
-2. Import this deck: File>Import
+2. Download Software Design.apkg
+3. Import this deck: File>Import
 
 # Motivation
 
 To master a subject you need to do _deliberate practice_.
 Anki's implementation of [spaced repetition](https://www.gwern.net/Spaced-repetition) and [active recall](https://en.wikipedia.org/wiki/Testing_effect) creates a great env for _deliberate practice_.
-The goal therefore is to create the best resource for mastering software design using Anki.
 
 ---
 
