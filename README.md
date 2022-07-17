@@ -1,7 +1,11 @@
 **Achieve mastery in software design using Anki flashcards.**
 **Includes Data-structures and Algorithms, System Design, Object Oriented Programming, Design patterns, etc.**
 
-![image](./screenshot-anki-decks.png)
+```
+<p align="center">
+  <img width="460" height="300" src="./screenshot-anki-decks.jpg">
+</p>
+```
 
 ⚠️These notes are for inspiration only. To get better at software design, you have to practice with your own notes.⚠️
 
