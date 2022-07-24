@@ -14,7 +14,7 @@
 2. Download Software Design.apkg
 3. Import this deck: File>Import
 
-For problem solving tips refer to [Tips for Solving DSA problems](Tips_for_Solving_DSA_problems.md)
+For problem solving tips refer to [Tips for Solving DSA problems](Tips%20for%20Solving%20DSA%20problems.md)
 
 # Motivation
 
