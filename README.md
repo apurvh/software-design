@@ -14,6 +14,8 @@
 2. Download Software Design.apkg
 3. Import this deck: File>Import
 
+For problem solving tips refer to [Tips for Solving DSA problems.md](./Tips for Solving DSA problems.md)
+
 # Motivation
 
 To master a subject you need to do _deliberate practice_.
