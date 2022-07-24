@@ -1,10 +1,15 @@
 # REACTO by Fullstack Academy
 
 R-> Repeat the question, clarifying questions
+
 E-> Examples, test cases, keep asking clarifying questions | Note- Inputs -> outputs
+
 A-> Approaches, disucss various approaches-brute force, etc. with time & space complexities
+
 C-> Code, use the best practices - pseudocode comments, high quality name, add TODO to convert i,j to readable for for loops, javadoc comments etc.
+
 T-> Test, dry run test
+
 O-> Additionally optimisation
 
 So, Use REACTO and Keep talking to interviewer about your thought process.
